@@ -44,4 +44,4 @@ The algorithm begins by reading the contents of the allow list file into a strin
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-allow-list-algorithm.git
+   git clone https://github.com/Harbey74/algorithm-for-file-update-in-python.git
